@@ -20,6 +20,8 @@ const nav = [
   { href: "/fruits", label: "Fruits" },
   { href: "/leveling", label: "Leveling" },
   { href: "/pvp", label: "PvP" },
+  { href: "/fishing", label: "Fishing" },
+  { href: "/codes", label: "Codes" },
 ];
 
 const siblings = [

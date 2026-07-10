@@ -3,7 +3,7 @@ const DOMAIN = "https://kinglegacy.robloxguides.xyz";
 export default function sitemap(): MetadataRoute.Sitemap {
   const paths = [
     "", "/fruits", "/leveling", "/pvp", "/swords", "/races",
-    "/islands", "/bosses", "/about", "/contact",
+    "/islands", "/bosses", "/fishing", "/codes", "/about", "/contact",
     "/privacy", "/terms", "/cookie-policy",
   ];
   return paths.map((p) => ({
